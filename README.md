@@ -1,4 +1,4 @@
-# Table_Mounted_Funduscope
+# Table Mounted Funduscope
 
 The Table-Mounted Fundoscope is a stationary retinal imaging device designed to improve diagnostic accuracy and ease of use. Unlike handheld fundoscopy methods, this device eliminates motion artifacts caused by patient or doctor movements, ensuring stable and high-quality retinal imaging.
 
