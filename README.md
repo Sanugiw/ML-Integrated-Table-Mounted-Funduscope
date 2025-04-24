@@ -1,6 +1,6 @@
 # 👁️ ML-Integrated Fundoscope for Diabetic Retinopathy Detection
 
-<img src="images/funduscope.jpg" alt="Fundoscope Device" width="500"/>
+<img src="funduscope.jpg" alt="Fundoscope Device" width="500"/>
 
 
 This project was developed as part of the **BM2210 – Biomedical Device Design** module (3rd semester) with the goal of advancing **automated eye disease diagnosis** using a smart, **AI-powered table-mounted fundoscope**. By combining **machine learning** and **IoT**, this system enables real-time, accessible, and accurate retinal imaging and classification of diabetic retinopathy severity levels.
