@@ -60,7 +60,7 @@ This project addresses the increasing need for **early detection of diabetic ret
 - Integrate data logging for patient monitoring over time
 - Improve image preprocessing and segmentation for higher model accuracy
 
-
+---
 
 
 
