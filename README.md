@@ -49,6 +49,7 @@ This project addresses the increasing need for **early detection of diabetic ret
 
 - **Hardware:** ESP32-CAM, 20D lens
 - **Software:** Python, TensorFlow, Keras, Streamlit
+- **Enclosure:** SolidWorks
 - **Communication:** Wi-Fi (ESP32 to PC)
 - **Dataset:** A publicly available retinal fundus image dataset (21,000+ samples)
 
